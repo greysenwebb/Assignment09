@@ -1,5 +1,11 @@
-'''
-'''
+#Name: Kili-Greysen Webb, Ava Berling, Colin Bui, David Burkhart
+#email: webbgp@mail.uc.edu, berlinag@mail.uc.edu, buici@mail.uc.edu, burkhadj@mail.uc.edu
+#Assignment: Assignment 09
+#Course: IS 4010
+#Semester/Year: Fall 2022
+#Brief Description: This project demonstrates that we can work effectively as a team, use dunder and non dunder methods within classes, and use classes within python
+#Citations:N/A
+#Anything else that's relevant: This was worked on by David Burkhart
 
 class Politicians():
         def __init__(self, politicianName, politicianTitle, politicianVotePercent):
